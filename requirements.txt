@@ -1,0 +1,6 @@
+discord
+threading
+asyncio
+random
+time
+os
